@@ -1,4 +1,4 @@
-# hello-world
+# HelloWorld
 First repository
 
 Hello, my name is Allison and I'm learning how to code. 
